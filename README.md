@@ -1,8 +1,8 @@
 # Serverless - AWS Node.js Typescript
 
-Search & replace all `boilerplate` references with your correct project name.
+Search & replace all `boilerplate` references with your correct project name, and delete this line of the readme after completion.
 
-This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
+This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/). It has been doctored to allow for better management of functions and their config as a project progresses.
 
 For detailed instructions, please refer to the [documentation](https://www.serverless.com/framework/docs/providers/aws/).
 
