@@ -3,7 +3,7 @@ import functions from './serverless/functions';
 
 
 const serverlessConfiguration: AWS = {
-  service: 'combination-api',
+  service: 'boilerplate',
   frameworkVersion: '3',
   plugins: ['serverless-esbuild'],
   provider: {
